@@ -29,14 +29,16 @@ Now, if the electrons in the valence band gain sufficient energy they can become
 The materials can be classified by the energy gap between their valence band and the conduction band. Conduction takes place when an electron jumps from valence band to conduction band and the gap between these two bands is forbidden energy gap.
 
 <br>
-In the case of conductors, this energy gap is absent or in other words conduction band, and valence band overlaps each other. Thus, electron requires minimum energy to jump from valence band. The typical examples of conductors are Silver, Copper, and Aluminium.In Conductors the conduction band is almost filled with free Electrons.
+In the case of <b>conductors</b>, this energy gap is absent or in other words conduction band, and valence band overlaps each other. Thus, electron requires minimum energy to jump from valence band. The typical examples of conductors are Silver, Copper, and Aluminium.In Conductors the conduction band is almost filled with free Electrons.
 <br>
-In insulators, this gap is vast. Therefore, it requires a significant amount of energy to shift an electron from valence to conduction band. Thus, insulators are poor conductors of electricity. Mica and Ceramic are the well-known examples of insulation material.In Insulators Conduction band is Empty.
 <br>
-Semiconductors, on the other hand, have an energy gap which is in between that of conductors and insulators. This gap is typically more or less 1 eV, and thus, one electron requires energy more than conductors but less than insulators for shifting valence band to conduction band. In SemiConductors the conduction band is almost empty. Silicon and Germanium are the examples of semiconductor materials.
-
-![conduction Bands](images/energyBands.jpg)
+In <b>insulators</b>, this gap is vast. Therefore, it requires a significant amount of energy to shift an electron from valence to conduction band. Thus, insulators are poor conductors of electricity. Mica and Ceramic are the well-known examples of insulation material.In Insulators Conduction band is Empty.
+<br>
+<br>
+<b>Semiconductors</b>, on the other hand, have an energy gap which is in between that of conductors and insulators. This gap is typically more or less 1 eV, and thus, one electron requires energy more than conductors but less than insulators for shifting valence band to conduction band. In SemiConductors the conduction band is almost empty. Silicon and Germanium are the examples of semiconductor materials.
 </p>
+![conduction Bands](images/energyBands.jpg)
+
 
 **Covalent Bonds**
 --

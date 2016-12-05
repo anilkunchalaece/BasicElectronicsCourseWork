@@ -89,7 +89,9 @@ In a pure (intrinsic) Si or Ge semiconductor, each nucleus uses its four valence
 <br>
 Now, if one of the atoms in the semiconductor lattice is replaced by an element with three valence electrons, such as a Trivalent Materials like Boron (B) or Gallium (Ga), the electron-hole balance will be changed. This impurity will only be able to contribute three valence electrons to the lattice, therefore leaving one excess hole. Since holes will "accept" free electrons, a trivalent impurity is also called an acceptor.
 <br>
-![ P type Material](images/pTypeMaterial.jpg)
+
+![P type Material](images/pTypeMaterial.jpg)
+
 <br>
 a semiconductor that has been doped with an acceptor is called a p-type semiconductor; "p" stands for positive.Notice that the material as a whole remains electrically neutral. In this case, the holes are the majority carriers, while the electrons are the minority carriers.
 </p>

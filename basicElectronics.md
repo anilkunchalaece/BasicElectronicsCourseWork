@@ -88,9 +88,9 @@ Based on the type of doping material incorporated, semiconductor crystals are cl
 In a pure (intrinsic) Si or Ge semiconductor, each nucleus uses its four valence electrons to form four covalent bonds with its neighbors.Since there are no excess electrons or holes In this case, the number of electrons and holes present at any given time will always be equal.
 <br>
 Now, if one of the atoms in the semiconductor lattice is replaced by an element with three valence electrons, such as a Trivalent Materials like Boron (B) or Gallium (Ga), the electron-hole balance will be changed. This impurity will only be able to contribute three valence electrons to the lattice, therefore leaving one excess hole. Since holes will "accept" free electrons, a trivalent impurity is also called an acceptor.
-<br>
+</p>
 [P type Material](images/pTypeMaterial.jpg)
-<br>
+<p>
 a semiconductor that has been doped with an acceptor is called a p-type semiconductor; "p" stands for positive.Notice that the material as a whole remains electrically neutral. In this case, the holes are the majority carriers, while the electrons are the minority carriers.
 </p>
 **N-type Material**

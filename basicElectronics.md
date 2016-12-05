@@ -96,7 +96,20 @@ a semiconductor that has been doped with an acceptor is called a p-type semicond
 **N-type Material**
 <p>
 N-type material is created by introducing impurity elements that have <i>five</i> valance electrons (Pentavelent), such as antimony, arsenic and phosphorus.In this case, the impurity adds five valence electrons to the lattice where it can only hold four. This means that there is now one excess electron in the lattice (see figure below). Because it donates an electron, a Pentavalent impurity is called a donor. Note that the material remains electrically neutral.
-<br>
+</p>
 ![N type Material](images/nTypeMaterial.jpg)
-<br>
+<p>
 Donor impurities donate negatively charged electrons to the lattice, so a semiconductor that has been doped with a donor is called an n-type semiconductor; "n" stands for negative. Free electrons outnumber holes in an n-type material, so the electrons are the majority carriers and holes are the minority carriers.
+</p>
+
+**PN Junction Diode**
+--
+<p>
+The PN juction diode also known as Semi conductor diode is created by simply joining an N-type and P-type Material together.
+<br>
+Since the n-type region has a high electron concentration and the p-type a high hole concentration, electrons diffuse from the n-type side to the p-type side. Similarly, holes flow by diffusion from the p-type side to the n-type side. If the electrons and holes were not charged, this diffusion process would continue until the concentration of electrons and holes on the two sides were the same.
+On the n-type side, positive ion cores are exposed. On the p-type side, negative ion cores are exposed. An electric field Ê forms between the positive ion cores in the n-type material and negative ion cores in the p-type material. This region is called the "depletion region"
+</p>
+![PN Diode and Schematic](images/pnDiode.png)
+<br>
+Pn Juction Diode Schematic and Circuit Symbol

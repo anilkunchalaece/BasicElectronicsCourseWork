@@ -65,7 +65,7 @@ In pure silicon or germanium crystal the four valance electrons of one atom form
 
 ![Covalent Bonding](images/coveletBonding.gif)
 
-![Silicon Covelent Bonding](images/Silicon_covalent_bond.PNG)
+![Silicon Covelent Bonding](images/siliconCovalentBond.jpg)
 
 **Intrinsic and Extrensic Semiconductors**
 --
@@ -77,3 +77,26 @@ The characteristics of semiconductor material can be altered significantly by ad
 <br>
 <br>
 a semiconductor material that has been subjected to the doping is called an <b>extrensic Semiconductor</b>.
+
+Based on the type of doping material incorporated, semiconductor crystals are classified into two types
+1. P-type Materials
+2. N-type Materials
+</p>
+
+**P-type Material**
+<p>
+In a pure (intrinsic) Si or Ge semiconductor, each nucleus uses its four valence electrons to form four covalent bonds with its neighbors.Since there are no excess electrons or holes In this case, the number of electrons and holes present at any given time will always be equal.
+<br>
+Now, if one of the atoms in the semiconductor lattice is replaced by an element with three valence electrons, such as a Trivalent Materials like Boron (B) or Gallium (Ga), the electron-hole balance will be changed. This impurity will only be able to contribute three valence electrons to the lattice, therefore leaving one excess hole. Since holes will "accept" free electrons, a trivalent impurity is also called an acceptor.
+<br>
+![ P type Material](images/pTypeMaterial.jpg)
+<br>
+a semiconductor that has been doped with an acceptor is called a p-type semiconductor; "p" stands for positive.Notice that the material as a whole remains electrically neutral. In this case, the holes are the majority carriers, while the electrons are the minority carriers.
+</p>
+**N-type Material**
+<p>
+N-type material is created by introducing impurity elements that have <i>five</i> valance electrons (Pentavelent), such as antimony, arsenic and phosphorus.In this case, the impurity adds five valence electrons to the lattice where it can only hold four. This means that there is now one excess electron in the lattice (see figure below). Because it donates an electron, a Pentavalent impurity is called a donor. Note that the material remains electrically neutral.
+<br>
+![N type Material](images/nTypeMaterial.jpg)
+<br>
+Donor impurities donate negatively charged electrons to the lattice, so a semiconductor that has been doped with a donor is called an n-type semiconductor; "n" stands for negative. Free electrons outnumber holes in an n-type material, so the electrons are the majority carriers and holes are the minority carriers.

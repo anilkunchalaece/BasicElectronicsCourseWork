@@ -68,6 +68,7 @@ In pure silicon or germanium crystal the four valance electrons of one atom form
 ![Silicon Covelent Bonding](images/Silicon_covalent_bond.PNG)
 
 **Intrinsic and Extrensic Semiconductors**
+--
 <p>
 Semiconductors in its pure form are called Intrinsic Semiconductors. In pure semiconductor number of electrons (n) is equal to number of holes (p) and thus conductivity is very low as valence electrons are covalent bonded.
 <br>

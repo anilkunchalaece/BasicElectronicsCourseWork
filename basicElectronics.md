@@ -67,8 +67,10 @@ In pure silicon or germanium crystal the four valance electrons of one atom form
 
 **Intrinsic and Extrensic Semiconductors**
 <p>
-Semiconductors in its pure form are called Intrinsic Semiconductors. In pure semiconductor number of electrons (n) is equal to number of holes (p) and thus conductivity is very low as valence electrons are covalent bonded.
+Semiconductors in its pure form are called <b>Intrinsic Semiconductors</b>. In pure semiconductor number of electrons (n) is equal to number of holes (p) and thus conductivity is very low as valence electrons are covalent bonded.
 <br>
-The characteristics of semiconductor material can be altered significantly by addition of specific impurity atoms to relatively pure semiconductor material.the process of adding impurities to pure semiconductors is known as dopoing.
 <br>
-a semiconductor material that has been subjected to the doping is called an extrensic material.
+The characteristics of semiconductor material can be altered significantly by addition of specific impurity atoms to relatively pure semiconductor material.the process of adding impurities to pure semiconductors is known as <i>dopoing</i>.
+<br>
+<br>
+a semiconductor material that has been subjected to the doping is called an <b>extrensic Semiconductor</b>.

@@ -91,7 +91,7 @@ Now, if one of the atoms in the semiconductor lattice is replaced by an element 
 </p>
 ![P type Material](images/pTypeMaterial.jpg)
 <p>
-a semiconductor that has been doped with an acceptor is called a p-type semiconductor; "p" stands for positive.Notice that the material as a whole remains electrically neutral. In this case, the holes are the majority carriers, while the electrons are the minority carriers.
+a semiconductor that has been doped with an acceptor is called a p-type semiconductor; "p" stands for positive.Notice that the material as a whole remains electrically neutral. In this case, the holes are the majority carriers, while the electrons are the minority carriers. The P-type material is electrically neutral.
 </p>
 **N-type Material**
 <p>
@@ -100,6 +100,9 @@ N-type material is created by introducing impurity elements that have <i>five</i
 ![N type Material](images/nTypeMaterial.jpg)
 <p>
 Donor impurities donate negatively charged electrons to the lattice, so a semiconductor that has been doped with a donor is called an n-type semiconductor; "n" stands for negative. Free electrons outnumber holes in an n-type material, so the electrons are the majority carriers and holes are the minority carriers.
+<br>
+It is important to realize that even though a large number of free carriers have been established in the n -type material, it is still electrically neutral since ideally the number of positively charged protons in the nuclei is still equal to the number of free and orbiting negatively
+charged electrons in the structure
 </p>
 
 **PN Junction Diode**
@@ -115,7 +118,15 @@ On the n-type side, positive ion cores are exposed. On the p-type side, negative
 Pn Juction Diode Schematic and Circuit Symbol
 
 **At No-Bias Condition**
-<br>
+<p>
 At the instant the two materials are “joined” the electrons and the holes in the region of the junction will combine, resulting in a lack of free carriers in the region near the junction, as shown in Fig
 ![No Bias Diagram](images/noBias.png)
 the only particles displayed in this region are the positive and the negative ions remaining once the free carriers have been absorbed.
+<br>
+If leads are connected to the ends of each material, a two-terminal device results, as shown in Fig . Three options then become available: no bias , forward
+bias , and reverse bias . The term bias refers to the application of an external voltage across the two terminals of the device to extract a response. The condition shown in Fig is the no-bias situation because there is no external voltage applied.
+<br>
+The majority carriers (electrons) of the n -type material must overcome the attractive forces of the layer of positive ions in the n -type material and the shield of negative ions in the p -type material to migrate into the area beyond the depletion region of the p -type material. However, the number of majority carriers is so large in the n -type material that it is not possible for electrons to pass through the depletion region. same is true for the holes in p-type material.
+<br>
+*In the absence of an applied bias across a semiconductor diode, the net flow of charge in one direction is zero.In other words, the current under no-bias conditions is Zero*
+<br>

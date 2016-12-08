@@ -3,8 +3,8 @@ Basic Electronics Course Work
 By Kunchala Anil
 Email:anilkunchalaece@gmail.com
 
-Reference : http://www.energyquest.ca.gov/story/chapter02.html
-            http://www.bbc.co.uk/schools/gcsebitesize/science/add_ocr_21c/chemical_patterns/patternsrev1.shtml
+Please note that all the Images and desciption are taken from Different Sites and
+Text Books.. I dont own any of it.
 
 ````
 
@@ -113,3 +113,9 @@ On the n-type side, positive ion cores are exposed. On the p-type side, negative
 ![PN Diode and Schematic](images/pnDiode.png)
 <br>
 Pn Juction Diode Schematic and Circuit Symbol
+
+**At No-Bias Condition**
+<br>
+At the instant the two materials are “joined” the electrons and the holes in the region of the junction will combine, resulting in a lack of free carriers in the region near the junction, as shown in Fig
+![No Bias Diagram](images/noBias.png)
+the only particles displayed in this region are the positive and the negative ions remaining once the free carriers have been absorbed.

@@ -135,9 +135,10 @@ The term bias refers to the application of an external voltage across the two te
 <br>
 The condition shown in Fig is the **no-bias** situation because there is no external voltage applied.
 The majority carriers (electrons) of the n -type material must overcome the attractive forces of the layer of positive ions in the n -type material and the shield of negative ions in the p -type material to migrate into the area beyond the depletion region of the p -type material. However, the number of majority carriers is so large in the n -type material that it is not possible for electrons to pass through the depletion region. same is true for the holes in p-type material.
-<br>
-    ***In the absence of an applied bias across a semiconductor diode, the net flow of charge in one direction is zero.In other words, the current under no-bias conditions is Zero***
 </p>
+
+***In the absence of an applied bias across a semiconductor diode, the net flow of charge in one direction is zero.In other words, the current under no-bias conditions is Zero***
+
 **Reverse-Bias Condition**
 <p>
 If an external potential of V volts is applied across the p – n junction such that the positive terminal is connected to the n -type material and the negative terminal is connected to the p -type material as shown in Fig. the number of uncovered positive ions in the depletion region of the n -type material will increase due to the large number of free electrons drawn to the positive potential of the applied voltage. For similar reasons, the number of
@@ -146,20 +147,21 @@ uncovered negative ions will increase in the p -type material. Due to this the w
 ![Reverse Bias Diode](images/reverseBias.png)
 <br>
 In Reverse Bias condition there is a small current due to flow of Minority Carrriers, known as reverse saturation current.
+</p>
 
 ***The current that exists under reverse-bias conditions is called the reverse saturation current and is represented by I<sub>S</sub>***
-</p>
+
+<br>
 **Forward-Bias Condition**
 <p>
 A forward-bias or “on” condition is established by applying the positive potential to the p -type material and the negative potential to the n -type material as shown in Fig
 <br>
 ![Forward Bias](images/forwardBias.png)
 <br>
-The application of a forward-bias potential V D will “pressure” electrons in the n -type material and holes in the p -type material to recombine with the ions near the boundary and reduce the width of the depletion region as shown in Fig.
+The application of a forward-bias potential V<sub>D</sub> will “pressure” electrons in the n -type material and holes in the p -type material to recombine with the ions near the boundary and reduce the width of the depletion region as shown in Fig.
 the reduction in the width of the depletion region has resulted in a heavy majority flow across the junction. An electron of the n -type material now “sees” a reduced barrier at the junction due to the reduced depletion region and a strong attraction for the positive potential applied to the p -type material. As the applied bias increases in magnitude, the depletion region will continue to decrease in width until a flood of electrons can pass through the junction, resulting in an exponential rise in current as shown in the forward-bias region of the characteristics of Fig
-<br>
-![V-I Characteristics of Diode](images/viDiode.png)
 </p>
+![V-I Characteristics of Diode](images/viDiode.png)
 
 **Breakdown Region**
 <p>

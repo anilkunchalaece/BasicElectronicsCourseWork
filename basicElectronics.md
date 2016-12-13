@@ -157,3 +157,11 @@ A forward-bias or “on” condition is established by applying the positive pot
 <br>
 The application of a forward-bias potential V D will “pressure” electrons in the n -type material and holes in the p -type material to recombine with the ions near the boundary and reduce the width of the depletion region as shown in Fig.
 the reduction in the width of the depletion region has resulted in a heavy majority flow across the junction. An electron of the n -type material now “sees” a reduced barrier at the junction due to the reduced depletion region and a strong attraction for the positive potential applied to the p -type material. As the applied bias increases in magnitude, the depletion region will continue to decrease in width until a flood of electrons can pass through the junction, resulting in an exponential rise in current as shown in the forward-bias region of the characteristics of Fig
+<br>
+![V-I Characteristics of Diode](images/viDiode.png)
+</p>
+
+**Breakdown Region**
+<p>
+The application of too negative a voltage with the reverse polarity will result in a sharp change in the characteristics, shown as Breakdown in fig.The current increases at a very rapid rate in a direction opposite to that of the positive voltage region. The reverse-bias potential that results in this dramatic change in characteristics is called the breakdown potential V<sub>BR</sub>.
+</p>

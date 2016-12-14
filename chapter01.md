@@ -120,9 +120,9 @@ Pn Juction Diode Schematic and Circuit Symbol
 **At No-Bias Condition**
 <p>
 At the instant the two materials are “joined” the electrons and the holes in the region of the junction will combine, resulting in a lack of free carriers in the region near the junction, as shown in Fig
+</p>
 ![No Bias Diagram](images/noBias.png)
-<br>
-
+<p>
 the only particles displayed in this region are the positive and the negative ions remaining once the free carriers have been absorbed.
 <br>
 If leads are connected to the ends of each material, a two-terminal device results, as shown in Fig . Three options then become available:
@@ -143,9 +143,9 @@ The majority carriers (electrons) of the n -type material must overcome the attr
 <p>
 If an external potential of V volts is applied across the p – n junction such that the positive terminal is connected to the n -type material and the negative terminal is connected to the p -type material as shown in Fig. the number of uncovered positive ions in the depletion region of the n -type material will increase due to the large number of free electrons drawn to the positive potential of the applied voltage. For similar reasons, the number of
 uncovered negative ions will increase in the p -type material. Due to this the width of depletion region is increased. This widening of the depletion region will establish too great a barrier for the majority carriers to overcome, effectively reducing the majority carrier flow to zero, as shown in Fig.
-<br>
+</p>
 ![Reverse Bias Diode](images/reverseBias.png)
-<br>
+<p>
 In Reverse Bias condition there is a small current due to flow of Minority Carrriers, known as reverse saturation current.
 </p>
 
@@ -155,9 +155,9 @@ In Reverse Bias condition there is a small current due to flow of Minority Carrr
 **Forward-Bias Condition**
 <p>
 A forward-bias or “on” condition is established by applying the positive potential to the p -type material and the negative potential to the n -type material as shown in Fig
-<br>
+</p>
 ![Forward Bias](images/forwardBias.png)
-<br>
+<p>
 The application of a forward-bias potential V<sub>D</sub> will “pressure” electrons in the n -type material and holes in the p -type material to recombine with the ions near the boundary and reduce the width of the depletion region as shown in Fig.
 the reduction in the width of the depletion region has resulted in a heavy majority flow across the junction. An electron of the n -type material now “sees” a reduced barrier at the junction due to the reduced depletion region and a strong attraction for the positive potential applied to the p -type material. As the applied bias increases in magnitude, the depletion region will continue to decrease in width until a flood of electrons can pass through the junction, resulting in an exponential rise in current as shown in the forward-bias region of the characteristics of Fig
 </p>
@@ -196,3 +196,5 @@ When the Trasnformer Secondary Voltage applied to the Halfwave Recitifer Circuit
 <br>
 *Average Value*: By Definition, the Average Value of a periodic function is given by
  ![hwr Average Value](images/hwrEq2.png)
+ <>
+For Half wave Rectifier

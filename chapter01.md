@@ -169,9 +169,10 @@ The application of too negative a voltage with the reverse polarity will result 
 </p>
 
 ----------------------------------------------------------------------
-<p style="text-align:center"> **Rectifiers** </p>
+
+<p style="text-align:center"> <b><i>Rectifiers</i></b> </p>
 <p>
-A device which is capable of converting a sinusoidal input waveform into unidirectional waveform, with non zero average component is called **Rectifier**.
+A device which is capable of converting a sinusoidal input waveform into unidirectional waveform, with non zero average component is called <i>Rectifier</i>.
 <br>
 There are three types of rectifiers
 1. Half-wave Rectifier
@@ -189,12 +190,10 @@ The basic circuit for Halfwave Rectifier is as shown in fig
 <p>
 input voltage to the circuit V<sub>i</sub> = V<sub>m</sub> sin <i>w</i>t has a peak value of V<sub>m</sub> which is very large compared to the Cut-in voltage of the Diode, Assume that for following discussion Cut-in voltage is Zero.
 <br>
-with the Diode idealized to be a resistance R<sub>f</sub> in the ON state and an open circuit in OFF state, the Current <i>i</i> in the diode or load R<sub>L</sub> is given by
+with the Diode idealized to be a resistance R<sub>f</sub> in the ON state and an open circuit in OFF state, the Current <i>i</i> in the diode or load R<sub>L</sub> is given by <br>
 ![hwr Current Eq](images/hwrEq1.png)
 <br>
 When the Trasnformer Secondary Voltage applied to the Halfwave Recitifer Circuit we get Unidirectional Current as Output as shown in fig.
 <br>
-*Average Value*: By Definition, the Average Value of a periodic function is given by
- ![hwr Average Value](images/hwrEq2.png)
- <>
-For Half wave Rectifier
+![hwr Equation](hwrEq)
+</p>

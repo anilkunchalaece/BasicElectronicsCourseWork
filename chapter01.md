@@ -196,4 +196,3 @@ with the Diode idealized to be a resistance R<sub>f</sub> in the ON state and an
 When the Trasnformer Secondary Voltage applied to the Halfwave Recitifer Circuit we get Unidirectional Current as Output as shown in fig.
 <br>
 ![hwr Equation](hwrEq)
-</p>

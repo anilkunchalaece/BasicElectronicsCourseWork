@@ -167,3 +167,32 @@ the reduction in the width of the depletion region has resulted in a heavy major
 <p>
 The application of too negative a voltage with the reverse polarity will result in a sharp change in the characteristics, shown as Breakdown in fig.The current increases at a very rapid rate in a direction opposite to that of the positive voltage region. The reverse-bias potential that results in this dramatic change in characteristics is called the breakdown potential V<sub>BR</sub>.
 </p>
+
+----------------------------------------------------------------------
+<p style="text-align:center"> **Rectifiers** </p>
+<p>
+A device which is capable of converting a sinusoidal input waveform into unidirectional waveform, with non zero average component is called **Rectifier**.
+<br>
+There are three types of rectifiers
+1. Half-wave Rectifier
+2. Full-wave Rectifier
+3. Bridge Rectifier
+</p>
+
+**Half-wave Rectifiers**
+The basic circuit for Halfwave Rectifier is as shown in fig
+![Half Wave Rectifier](images/halfWaveRectifier.png)
+<br>
+(a) Basic Circuit of Half-wave Rectiifer <br>
+(b)Transformer Sinusoidal Secondary voltage <br>
+(c) Diode and Load Current
+<p>
+input voltage to the circuit V<sub>i</sub> = V<sub>m</sub> sin <i>w</i>t has a peak value of V<sub>m</sub> which is very large compared to the Cut-in voltage of the Diode, Assume that for following discussion Cut-in voltage is Zero.
+<br>
+with the Diode idealized to be a resistance R<sub>f</sub> in the ON state and an open circuit in OFF state, the Current <i>i</i> in the diode or load R<sub>L</sub> is given by
+![hwr Current Eq](images/hwrEq1.png)
+<br>
+When the Trasnformer Secondary Voltage applied to the Halfwave Recitifer Circuit we get Unidirectional Current as Output as shown in fig.
+<br>
+*Average Value*: By Definition, the Average Value of a periodic function is given by
+ ![hwr Average Value](images/hwrEq2.png)

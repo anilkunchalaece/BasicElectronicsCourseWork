@@ -17,8 +17,9 @@ All matter is made up of atoms. and atoms are made up of smaller particles. The 
 Electrons contain a negative charge, protons a positive charge. Neutrons are neutral – they have neither a positive nor a negative charge.
 <br>
 Electrons spin around the center, or nucleus, of atoms. The nucleus is made up of neutrons and protons.
+</p>
 ![atom Image](images/atom.gif)
-<br>
+<p>
 Electrons are contained in shells around the nucleus. In a neutral atom the total number of electrons is always the same as the number of protons in the nucleus.These shells are also called energy levels.
 <br>
 The collection of energy levels associated with the outer shell electrons ( valence electrons ) is called valence band.

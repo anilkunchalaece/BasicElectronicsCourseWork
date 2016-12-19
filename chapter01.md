@@ -197,6 +197,15 @@ with the Diode idealized to be a resistance R<sub>f</sub> in the ON state and an
 <p>
 When the Trasnformer Secondary Voltage applied to the Halfwave Recitifer Circuit we get Unidirectional Current as Output as shown in fig above. <br>
 
-<b>The average value for Current I<sub>DC</sub></b> 
+<b>The average value for Current I<sub>DC</sub></b>
 </p>
 ![hwr Equation](images/hwrEq.png)
+<b>The Diode Voltage :</b>
+<p> The DC output voltage is given by </p>
+![Half wave Rectifier DC Voltage](images/vdc.gif)
+<p>
+The Voltage across diode is <i>not<i> not given by I<sub>dc</sub>R<sub>f</sub> because the diode cannot be modeled as a constant resitance, but rather it has two values : R<sub>f</sub> in the ON state ans infinity in OFF state.
+<br>
+To obtain V<sub>dc</sub> across the diode, the instantaneous voltage must be plotted as shown in fig, and the average value obtained by integration.
+</p>
+![Half Wave Rectifier Vdc Instantaneous](images/hwrVdcInstan.png)

@@ -226,3 +226,20 @@ Ac Component of Voltage is Given by
 <br>
 ![hwr Vrms](images/hwrVRms.jpg)
 <br>
+<b>Peak Inverse Voltage(PIV)</b>
+<p>
+It is the maximum voltage that the rectifying diode has to withstand, during the reverse biased period.
+When the diode is reverse biased, during the negative  half cycle, there will be no current flow through the load resistor RL. Hence, there will be no voltage drop through the load resistance RL which causes the entire input voltage to appear across the diode
+<br>
+Peak Inverse Voltage (PIV) of half wave rectifier = V<sub>M</sub>
+</p>
+<b> Rectification Efficiency</b>
+<br>
+Rectification efficiency is defined as the ratio between the output power to the ac input power.
+![Hwr Efficinecy](images/hwrEfficiency.jpg)
+<br>
+since Rf /</< RL we can Neglect Rf.The Maximum Efficiency obtained by Half wave Rectifier is 40.6%.
+<br>
+<b>Ripple Factor </b>
+<p>
+Ripple factor is in fact a measure of the remaining alternating components in a filtered rectifier output. It is the ratio of the effective value of the ac components of voltage (or current) present in the output from the rectifier to the dc component in output voltage (or current).

@@ -200,6 +200,7 @@ When the Trasnformer Secondary Voltage applied to the Halfwave Recitifer Circuit
 <b>The average value for Current I<sub>DC</sub></b>
 </p>
 ![hwr Equation](images/hwrEq.png)
+<br>
 <b>The Diode Voltage :</b>
 <p> The DC output voltage is given by </p>
 ![Half wave Rectifier DC Voltage](images/vdc.gif)
@@ -215,7 +216,13 @@ To obtain V<sub>dc</sub> across the diode, the instantaneous voltage must be plo
 <p>
 The AC voltage and Current is given by root-mean-square of periodic function expressed mathematically as
 </p>
-![Irms Equation](iRms.png)
+![Irms Equation](images/iRms.png)
 <br>
 AC component of current is given by
+<br>
+![iRms Equation](images/iRmsEq.jpg)
+
+Ac Component of Voltage is Given by
+<br>
+![hwr Vrms](images/hwrVRms.jpg)
 <br>

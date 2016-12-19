@@ -192,8 +192,11 @@ The basic circuit for Halfwave Rectifier is as shown in fig
 input voltage to the circuit V<sub>i</sub> = V<sub>m</sub> sin <i>w</i>t has a peak value of V<sub>m</sub> which is very large compared to the Cut-in voltage of the Diode, Assume that for following discussion Cut-in voltage is Zero.
 <br>
 with the Diode idealized to be a resistance R<sub>f</sub> in the ON state and an open circuit in OFF state, the Current <i>i</i> in the diode or load R<sub>L</sub> is given by <br>
+</p>
 ![hwr Current Eq](images/hwrEq1.png)
-<br>
-When the Trasnformer Secondary Voltage applied to the Halfwave Recitifer Circuit we get Unidirectional Current as Output as shown in fig.
-<br>
+<p>
+When the Trasnformer Secondary Voltage applied to the Halfwave Recitifer Circuit we get Unidirectional Current as Output as shown in fig above. <br>
+
+<b>The average value for Current I<sub>DC</sub></b> 
+</p>
 ![hwr Equation](images/hwrEq.png)

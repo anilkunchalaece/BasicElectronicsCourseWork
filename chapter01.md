@@ -209,3 +209,13 @@ The Voltage across diode is <i>not<i> not given by I<sub>dc</sub>R<sub>f</sub> b
 To obtain V<sub>dc</sub> across the diode, the instantaneous voltage must be plotted as shown in fig, and the average value obtained by integration.
 </p>
 ![Half Wave Rectifier Vdc Instantaneous](images/hwrVdcInstan.png)
+![ HWR Diode Instantaneous Voltage Equation](images/hwrVdcDiode.jpg)
+
+<b><i> AC Current and Voltage </i></b>
+<p>
+The AC voltage and Current is given by root-mean-square of periodic function expressed mathematically as
+</p>
+![Irms Equation](iRms.png)
+<br>
+AC component of current is given by
+<br>

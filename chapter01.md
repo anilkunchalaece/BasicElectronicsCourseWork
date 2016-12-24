@@ -243,3 +243,49 @@ since Rf /</< RL we can Neglect Rf.The Maximum Efficiency obtained by Half wave 
 <b>Ripple Factor </b>
 <p>
 Ripple factor is in fact a measure of the remaining alternating components in a filtered rectifier output. It is the ratio of the effective value of the ac components of voltage (or current) present in the output from the rectifier to the dc component in output voltage (or current).
+</p>
+![hwr Ripple Factor](images/hwrRippleFactor.png)
+
+<br>
+<b>Regulation </b>
+<p>
+The variation of the output voltage as a function of dc load current is called regulation. Percentage regulation is given as
+<br>
+<b> % Regulation = {(Vno-load – Vfull-load)/ Vfull-load}* 100 </b>
+</p>
+
+<h3> Full Wave Rectifier </h3>
+The Circuit of center tapped Full wave rectifier is shown in fig below.
+![Full Wave Rectifier](images/fwr.png)
+<p> The circuit comprise two half wave circuits so connected that conduction takes
+place through one diode during one half of power cycle and through other diode during second half of the cycle.
+
+During the positive portion of V<sub>i</sub> applied to the primary of the
+transformer,D1 assumes the short-circuit equivalent and D2 the open-circuit equivalent, as determined by the secondary voltages and the resulting current
+directions.
+
+During the negative portion of the input the reversing the roles of the diodes but maintaining the same polarity for the voltage across the load re-
+sistor R<sub>L</sub>.
+
+The Average Value for Voltage and Current Across load is given by
+</p>
+
+![FWR DC and RMS Values](images/fwrDcRms.png)
+
+<b> PIV </b>
+
+![FWR PIV](images/fwrPIV.png)
+
+<p>
+At the instant of time when the transformer secondary voltage to mid point is at its peak value V<sub>m</sub>, the diode D1 is conducting and D2 is nonconducting. If we apply KVL
+</p>
+![FWR PIV KVL](images/fwrPivKvl.png)
+<br>
+<b> Efficiency </p>
+<br>
+![FWR Efficiency](images/fwrEfficiency.png)
+
+<br>
+![FWR Ripple Factor](images/FwrRippleFactor.png)
+<br>
+![FWR Ripple Factor](images/fwrRippleFactor2.png)

@@ -261,7 +261,7 @@ The Circuit of center tapped Full wave rectifier is shown in fig below.
 place through one diode during one half of power cycle and through other diode during second half of the cycle.
 
 During the positive portion of V<sub>i</sub> applied to the primary of the
-transformer,D1 assumes the short-circuit equivalent and D2 the open-circuit equivalent, as determined by the secondary voltages and the resulting current
+transformer,D1 assumes the shortcircuit equivalent and D2 the open-circuit equivalent, as determined by the secondary voltages and the resulting current
 directions.
 
 During the negative portion of the input the reversing the roles of the diodes but maintaining the same polarity for the voltage across the load re-
@@ -289,3 +289,29 @@ At the instant of time when the transformer secondary voltage to mid point is at
 ![FWR Ripple Factor](images/FwrRippleFactor.png)
 <br>
 ![FWR Ripple Factor](images/fwrRippleFactor2.png)
+
+<h3> Bridge Rectifier </h3>
+
+The Bridge rectifier is a circuit, which converts an ac voltage to dc voltage using both half cycles of the input ac voltage.The circuit has four diodes connected to form a bridge.
+
+For the First Half Cycle, The D2 and D3 are Conducting (Forward Biased) and D1 and D4 are in Off state(Reverse Biased).
+
+![Bridge Rectifier Positive Half Cycle](images/bridgeRectifier.png)
+
+For the negative region of the input the conducting diodes are D1 and D4.The important result is that the polarity across the load resistor R
+is the same, establishing a second positive pulse, as shown in Fig
+
+![Bridge Rectifier Negative Half Cycle](images/bridgeRectifierNegativeHalfCycle.png)
+
+<b>Peak Inverse Voltage</b>
+
+<br>
+For Any Positive Or Negative Half Cycle , equalent Circuit of bridge Rectifier is given by
+
+![Bridge Rectifier PIV](images/bridgePIV.png)
+
+Applying KVL For indicated loop the maximum voltage across R is V<sub>m</sub> and the PIV rating is given by
+PIV = V<sub>m</sub>
+
+![Bridge Rectifier Ripple Factor](images/bridgeRippleFactor.png)
+![Bridge Rectifier Efficiency](images/bridgeEfficiency.gif)
